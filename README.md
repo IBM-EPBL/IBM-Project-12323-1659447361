@@ -7,3 +7,5 @@ Aravindh Krishna Assignment 1 Google Collab link - https://colab.research.google
 
 Janarthanan Assignment 1 Google Collab link - https://colab.research.google.com/drive/10PVdqvHj0jUomrF1ImSbARLRHdYT2Blr?usp=sharing
 
+Avinash Assignment 1 Google Collab link -https://colab.research.google.com/drive/1h4N3m6_Xk4Q453qn72csiZDmAy_A86C0#scrollTo=McSxJAwcOdZ1
+
